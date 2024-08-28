@@ -16,9 +16,6 @@ Here are some of the projects I've worked on:
 ### [DevOps Project](https://github.com/VasfiDOGAN/devops_project)
 A comprehensive project demonstrating my expertise in setting up CI/CD pipelines, container orchestration with Kubernetes, and microservices.
 
-### [GelecegeYazilimJava](https://github.com/VasfiDOGAN/GelecegeYazilimJava)
-A series of Java-based homework assignments that showcase my skills in Java programming, algorithms, and data structures.
-
 ### [Docker Basics](https://github.com/VasfiDOGAN/DockerBasics)
 A beginner-friendly project explaining the basics of Docker, including Dockerfile creation, Docker Compose, and container orchestration.
 
@@ -27,6 +24,9 @@ A full-fledged e-commerce platform built using Python and Flask, featuring Docke
 
 ### [Spring Boot Microservices](https://github.com/SaiUpadhyayula/spring-boot-microservices)
 A collaborative project showcasing a complete microservices architecture using Spring Boot, Kafka, and Kubernetes.
+
+### [GelecegeYazilimJava](https://github.com/VasfiDOGAN/GelecegeYazilimJava)
+A series of Java-based homework assignments that showcase my skills in Java programming, algorithms, and data structures.
 
 ## GitHub Stats:
 ![Vasfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasfiDOGAN&show_icons=true&theme=radical)
