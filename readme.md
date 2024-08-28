@@ -33,5 +33,5 @@ A collaborative project showcasing a complete microservices architecture using S
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasfiDOGAN&layout=compact&theme=radical)
 
 ## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/vasfidogan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vasfidogan/)
 
