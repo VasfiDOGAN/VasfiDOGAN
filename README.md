@@ -11,7 +11,6 @@ I'm a passionate DevOps Engineer and Software Developer with a strong focus on c
 - 💼 LinkedIn: [linkedin.com/in/vasfidogan](https://www.linkedin.com/in/vasfidogan)
 - ⚡ Fun fact: I love exploring new tech gadgets and automating daily tasks.
 
-
 ## My Repositories
 Here are some of the projects I've worked on:
 
