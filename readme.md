@@ -7,8 +7,10 @@ I'm a passionate DevOps Engineer and Software Developer with a strong focus on c
 - 🌱 I’m continuously learning new technologies, currently diving deep into Kubernetes, Docker, and AWS.
 - 👯 I’m looking to collaborate on open-source DevOps tools and microservices projects.
 - 💬 Ask me about DevOps, Docker, Kubernetes, and Java development.
-- 📫 How to reach me: [vasfi.dogan@gmail.com](mailto:vasfi.dogan@gmail.com) (https://www.linkedin.com/in/vasfidogan/)]
+- 📫 How to reach me: [vasfi.dogan@gmail.com](mailto:vasfi.dogan@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vasfidogan](https://www.linkedin.com/in/vasfidogan)
 - ⚡ Fun fact: I love exploring new tech gadgets and automating daily tasks.
+
 
 ## My Repositories
 Here are some of the projects I've worked on:
